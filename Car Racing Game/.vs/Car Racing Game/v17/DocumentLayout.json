@@ -1,0 +1,350 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\faks\\3god\\vp\\Car Racing Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F8B66BC-8E45-4824-AC31-F4EBED1AB170}|Car Racing Game\\Car Racing Game.csproj|d:\\faks\\3god\\vp\\car racing game\\car racing game\\combatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F8B66BC-8E45-4824-AC31-F4EBED1AB170}|Car Racing Game\\Car Racing Game.csproj|solutionrelative:car racing game\\combatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F8B66BC-8E45-4824-AC31-F4EBED1AB170}|Car Racing Game\\Car Racing Game.csproj|D:\\faks\\3god\\vp\\Car Racing Game\\car racing game\\combatclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F8B66BC-8E45-4824-AC31-F4EBED1AB170}|Car Racing Game\\Car Racing Game.csproj|solutionrelative:car racing game\\combatclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F8B66BC-8E45-4824-AC31-F4EBED1AB170}|Car Racing Game\\Car Racing Game.csproj|D:\\faks\\3god\\vp\\Car Racing Game\\car racing game\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F8B66BC-8E45-4824-AC31-F4EBED1AB170}|Car Racing Game\\Car Racing Game.csproj|solutionrelative:car racing game\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F8B66BC-8E45-4824-AC31-F4EBED1AB170}|Car Racing Game\\Car Racing Game.csproj|D:\\faks\\3god\\vp\\Car Racing Game\\car racing game\\combatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F8B66BC-8E45-4824-AC31-F4EBED1AB170}|Car Racing Game\\Car Racing Game.csproj|solutionrelative:car racing game\\combatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F8B66BC-8E45-4824-AC31-F4EBED1AB170}|Car Racing Game\\Car Racing Game.csproj|D:\\faks\\3god\\vp\\Car Racing Game\\car racing game\\highscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F8B66BC-8E45-4824-AC31-F4EBED1AB170}|Car Racing Game\\Car Racing Game.csproj|solutionrelative:car racing game\\highscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F8B66BC-8E45-4824-AC31-F4EBED1AB170}|Car Racing Game\\Car Racing Game.csproj|D:\\faks\\3god\\vp\\Car Racing Game\\car racing game\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F8B66BC-8E45-4824-AC31-F4EBED1AB170}|Car Racing Game\\Car Racing Game.csproj|solutionrelative:car racing game\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F8B66BC-8E45-4824-AC31-F4EBED1AB170}|Car Racing Game\\Car Racing Game.csproj|D:\\faks\\3god\\vp\\Car Racing Game\\car racing game\\coinsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F8B66BC-8E45-4824-AC31-F4EBED1AB170}|Car Racing Game\\Car Racing Game.csproj|solutionrelative:car racing game\\coinsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F8B66BC-8E45-4824-AC31-F4EBED1AB170}|Car Racing Game\\Car Racing Game.csproj|D:\\faks\\3god\\vp\\Car Racing Game\\car racing game\\survivalmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F8B66BC-8E45-4824-AC31-F4EBED1AB170}|Car Racing Game\\Car Racing Game.csproj|solutionrelative:car racing game\\survivalmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F8B66BC-8E45-4824-AC31-F4EBED1AB170}|Car Racing Game\\Car Racing Game.csproj|D:\\faks\\3god\\vp\\Car Racing Game\\car racing game\\survivalmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F8B66BC-8E45-4824-AC31-F4EBED1AB170}|Car Racing Game\\Car Racing Game.csproj|solutionrelative:car racing game\\survivalmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F8B66BC-8E45-4824-AC31-F4EBED1AB170}|Car Racing Game\\Car Racing Game.csproj|D:\\faks\\3god\\vp\\Car Racing Game\\car racing game\\helpform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F8B66BC-8E45-4824-AC31-F4EBED1AB170}|Car Racing Game\\Car Racing Game.csproj|solutionrelative:car racing game\\helpform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F8B66BC-8E45-4824-AC31-F4EBED1AB170}|Car Racing Game\\Car Racing Game.csproj|D:\\faks\\3god\\vp\\Car Racing Game\\car racing game\\chosecarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F8B66BC-8E45-4824-AC31-F4EBED1AB170}|Car Racing Game\\Car Racing Game.csproj|solutionrelative:car racing game\\chosecarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F8B66BC-8E45-4824-AC31-F4EBED1AB170}|Car Racing Game\\Car Racing Game.csproj|D:\\faks\\3god\\vp\\Car Racing Game\\car racing game\\chosecarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F8B66BC-8E45-4824-AC31-F4EBED1AB170}|Car Racing Game\\Car Racing Game.csproj|solutionrelative:car racing game\\chosecarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F8B66BC-8E45-4824-AC31-F4EBED1AB170}|Car Racing Game\\Car Racing Game.csproj|D:\\faks\\3god\\vp\\Car Racing Game\\car racing game\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{0F8B66BC-8E45-4824-AC31-F4EBED1AB170}|Car Racing Game\\Car Racing Game.csproj|solutionrelative:car racing game\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F8B66BC-8E45-4824-AC31-F4EBED1AB170}|Car Racing Game\\Car Racing Game.csproj|D:\\faks\\3god\\vp\\Car Racing Game\\car racing game\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F8B66BC-8E45-4824-AC31-F4EBED1AB170}|Car Racing Game\\Car Racing Game.csproj|solutionrelative:car racing game\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F8B66BC-8E45-4824-AC31-F4EBED1AB170}|Car Racing Game\\Car Racing Game.csproj|D:\\faks\\3god\\vp\\Car Racing Game\\car racing game\\mode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F8B66BC-8E45-4824-AC31-F4EBED1AB170}|Car Racing Game\\Car Racing Game.csproj|solutionrelative:car racing game\\mode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F8B66BC-8E45-4824-AC31-F4EBED1AB170}|Car Racing Game\\Car Racing Game.csproj|D:\\faks\\3god\\vp\\Car Racing Game\\car racing game\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F8B66BC-8E45-4824-AC31-F4EBED1AB170}|Car Racing Game\\Car Racing Game.csproj|solutionrelative:car racing game\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F8B66BC-8E45-4824-AC31-F4EBED1AB170}|Car Racing Game\\Car Racing Game.csproj|D:\\faks\\3god\\vp\\Car Racing Game\\car racing game\\coinsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F8B66BC-8E45-4824-AC31-F4EBED1AB170}|Car Racing Game\\Car Racing Game.csproj|solutionrelative:car racing game\\coinsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F8B66BC-8E45-4824-AC31-F4EBED1AB170}|Car Racing Game\\Car Racing Game.csproj|D:\\faks\\3god\\vp\\Car Racing Game\\car racing game\\chosemodeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F8B66BC-8E45-4824-AC31-F4EBED1AB170}|Car Racing Game\\Car Racing Game.csproj|solutionrelative:car racing game\\chosemodeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F8B66BC-8E45-4824-AC31-F4EBED1AB170}|Car Racing Game\\Car Racing Game.csproj|D:\\faks\\3god\\vp\\Car Racing Game\\car racing game\\chosemodeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F8B66BC-8E45-4824-AC31-F4EBED1AB170}|Car Racing Game\\Car Racing Game.csproj|solutionrelative:car racing game\\chosemodeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F8B66BC-8E45-4824-AC31-F4EBED1AB170}|Car Racing Game\\Car Racing Game.csproj|D:\\faks\\3god\\vp\\Car Racing Game\\car racing game\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F8B66BC-8E45-4824-AC31-F4EBED1AB170}|Car Racing Game\\Car Racing Game.csproj|solutionrelative:car racing game\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F8B66BC-8E45-4824-AC31-F4EBED1AB170}|Car Racing Game\\Car Racing Game.csproj|D:\\faks\\3god\\vp\\Car Racing Game\\car racing game\\enemypicturebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F8B66BC-8E45-4824-AC31-F4EBED1AB170}|Car Racing Game\\Car Racing Game.csproj|solutionrelative:car racing game\\enemypicturebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HighScore.cs",
+              "DocumentMoniker": "D:\\faks\\3god\\vp\\Car Racing Game\\Car Racing Game\\HighScore.cs",
+              "RelativeDocumentMoniker": "Car Racing Game\\HighScore.cs",
+              "ToolTip": "D:\\faks\\3god\\vp\\Car Racing Game\\Car Racing Game\\HighScore.cs",
+              "RelativeToolTip": "Car Racing Game\\HighScore.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T12:16:39.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CombatClass.cs",
+              "DocumentMoniker": "D:\\faks\\3god\\vp\\Car Racing Game\\Car Racing Game\\CombatClass.cs",
+              "RelativeDocumentMoniker": "Car Racing Game\\CombatClass.cs",
+              "ToolTip": "D:\\faks\\3god\\vp\\Car Racing Game\\Car Racing Game\\CombatClass.cs",
+              "RelativeToolTip": "Car Racing Game\\CombatClass.cs",
+              "ViewState": "AQIAANkAAAAAAAAAAAAqwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T21:10:25.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EnemyPictureBox.cs",
+              "DocumentMoniker": "D:\\faks\\3god\\vp\\Car Racing Game\\Car Racing Game\\EnemyPictureBox.cs",
+              "RelativeDocumentMoniker": "Car Racing Game\\EnemyPictureBox.cs",
+              "ToolTip": "D:\\faks\\3god\\vp\\Car Racing Game\\Car Racing Game\\EnemyPictureBox.cs",
+              "RelativeToolTip": "Car Racing Game\\EnemyPictureBox.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T20:55:37.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\faks\\3god\\vp\\Car Racing Game\\Car Racing Game\\Form1.cs",
+              "RelativeDocumentMoniker": "Car Racing Game\\Form1.cs",
+              "ToolTip": "D:\\faks\\3god\\vp\\Car Racing Game\\Car Racing Game\\Form1.cs",
+              "RelativeToolTip": "Car Racing Game\\Form1.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwGMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T15:00:09.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\faks\\3god\\vp\\Car Racing Game\\Car Racing Game\\Form1.cs",
+              "RelativeDocumentMoniker": "Car Racing Game\\Form1.cs",
+              "ToolTip": "D:\\faks\\3god\\vp\\Car Racing Game\\Car Racing Game\\Form1.cs [Design]",
+              "RelativeToolTip": "Car Racing Game\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T14:40:18.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChoseCarForm.cs",
+              "DocumentMoniker": "D:\\faks\\3god\\vp\\Car Racing Game\\Car Racing Game\\ChoseCarForm.cs",
+              "RelativeDocumentMoniker": "Car Racing Game\\ChoseCarForm.cs",
+              "ToolTip": "D:\\faks\\3god\\vp\\Car Racing Game\\Car Racing Game\\ChoseCarForm.cs",
+              "RelativeToolTip": "Car Racing Game\\ChoseCarForm.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAawEkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T15:17:42.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ChoseCarForm.cs [Design]",
+              "DocumentMoniker": "D:\\faks\\3god\\vp\\Car Racing Game\\Car Racing Game\\ChoseCarForm.cs",
+              "RelativeDocumentMoniker": "Car Racing Game\\ChoseCarForm.cs",
+              "ToolTip": "D:\\faks\\3god\\bp\\Car Racing Game\\Car Racing Game\\ChoseCarForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\bp\\Car Racing Game\\Car Racing Game\\ChoseCarForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T14:49:02.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ChoseModeForm.cs",
+              "DocumentMoniker": "D:\\faks\\3god\\vp\\Car Racing Game\\Car Racing Game\\ChoseModeForm.cs",
+              "RelativeDocumentMoniker": "Car Racing Game\\ChoseModeForm.cs",
+              "ToolTip": "D:\\faks\\3god\\vp\\Car Racing Game\\Car Racing Game\\ChoseModeForm.cs",
+              "RelativeToolTip": "Car Racing Game\\ChoseModeForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T15:56:53.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ChoseModeForm.cs [Design]",
+              "DocumentMoniker": "D:\\faks\\3god\\vp\\Car Racing Game\\Car Racing Game\\ChoseModeForm.cs",
+              "RelativeDocumentMoniker": "Car Racing Game\\ChoseModeForm.cs",
+              "ToolTip": "D:\\faks\\3god\\bp\\Car Racing Game\\Car Racing Game\\ChoseModeForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\bp\\Car Racing Game\\Car Racing Game\\ChoseModeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T15:55:36.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SurvivalMode.cs",
+              "DocumentMoniker": "D:\\faks\\3god\\vp\\Car Racing Game\\Car Racing Game\\SurvivalMode.cs",
+              "RelativeDocumentMoniker": "Car Racing Game\\SurvivalMode.cs",
+              "ToolTip": "D:\\faks\\3god\\vp\\Car Racing Game\\Car Racing Game\\SurvivalMode.cs",
+              "RelativeToolTip": "Car Racing Game\\SurvivalMode.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAswBIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T16:42:18.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SurvivalMode.cs [Design]",
+              "DocumentMoniker": "D:\\faks\\3god\\vp\\Car Racing Game\\Car Racing Game\\SurvivalMode.cs",
+              "RelativeDocumentMoniker": "Car Racing Game\\SurvivalMode.cs",
+              "ToolTip": "D:\\faks\\3god\\bp\\Car Racing Game\\Car Racing Game\\SurvivalMode.cs [Design]",
+              "RelativeToolTip": "..\\..\\bp\\Car Racing Game\\Car Racing Game\\SurvivalMode.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T16:25:44.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CoinsForm.cs",
+              "DocumentMoniker": "D:\\faks\\3god\\vp\\Car Racing Game\\Car Racing Game\\CoinsForm.cs",
+              "RelativeDocumentMoniker": "Car Racing Game\\CoinsForm.cs",
+              "ToolTip": "D:\\faks\\3god\\vp\\Car Racing Game\\Car Racing Game\\CoinsForm.cs",
+              "RelativeToolTip": "Car Racing Game\\CoinsForm.cs",
+              "ViewState": "AQIAAIwAAAAAAAAAAAAUwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T15:12:53.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CoinsForm.cs [Design]",
+              "DocumentMoniker": "D:\\faks\\3god\\vp\\Car Racing Game\\Car Racing Game\\CoinsForm.cs",
+              "RelativeDocumentMoniker": "Car Racing Game\\CoinsForm.cs",
+              "ToolTip": "D:\\faks\\3god\\bp\\Car Racing Game\\Car Racing Game\\CoinsForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\bp\\Car Racing Game\\Car Racing Game\\CoinsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T15:01:13.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CombatForm.cs [Design]",
+              "DocumentMoniker": "D:\\faks\\3god\\vp\\Car Racing Game\\Car Racing Game\\CombatForm.cs",
+              "RelativeDocumentMoniker": "Car Racing Game\\CombatForm.cs",
+              "ToolTip": "D:\\faks\\3god\\vp\\Car Racing Game\\Car Racing Game\\CombatForm.cs [Design]",
+              "RelativeToolTip": "Car Racing Game\\CombatForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T22:58:26.69Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CombatForm.cs",
+              "DocumentMoniker": "D:\\faks\\3god\\vp\\Car Racing Game\\Car Racing Game\\CombatForm.cs",
+              "RelativeDocumentMoniker": "Car Racing Game\\CombatForm.cs",
+              "ToolTip": "D:\\faks\\3god\\vp\\Car Racing Game\\Car Racing Game\\CombatForm.cs",
+              "RelativeToolTip": "Car Racing Game\\CombatForm.cs",
+              "ViewState": "AQIAAMAAAAAAAAAAAAAiwHIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T13:24:37.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GameData.cs",
+              "DocumentMoniker": "D:\\faks\\3god\\vp\\Car Racing Game\\Car Racing Game\\GameData.cs",
+              "RelativeDocumentMoniker": "Car Racing Game\\GameData.cs",
+              "ToolTip": "D:\\faks\\3god\\vp\\Car Racing Game\\Car Racing Game\\GameData.cs",
+              "RelativeToolTip": "Car Racing Game\\GameData.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T16:07:39.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Game.cs",
+              "DocumentMoniker": "D:\\faks\\3god\\vp\\Car Racing Game\\Car Racing Game\\Game.cs",
+              "RelativeDocumentMoniker": "Car Racing Game\\Game.cs",
+              "ToolTip": "D:\\faks\\3god\\vp\\Car Racing Game\\Car Racing Game\\Game.cs",
+              "RelativeToolTip": "Car Racing Game\\Game.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAADwv2wAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T16:11:07.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Mode.cs",
+              "DocumentMoniker": "D:\\faks\\3god\\vp\\Car Racing Game\\Car Racing Game\\Mode.cs",
+              "RelativeDocumentMoniker": "Car Racing Game\\Mode.cs",
+              "ToolTip": "D:\\faks\\3god\\vp\\Car Racing Game\\Car Racing Game\\Mode.cs",
+              "RelativeToolTip": "Car Racing Game\\Mode.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T15:59:56.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\faks\\3god\\vp\\Car Racing Game\\Car Racing Game\\Car.cs",
+              "RelativeDocumentMoniker": "Car Racing Game\\Car.cs",
+              "ToolTip": "D:\\faks\\3god\\vp\\Car Racing Game\\Car Racing Game\\Car.cs",
+              "RelativeToolTip": "Car Racing Game\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T15:10:28.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HelpForm.cs [Design]",
+              "DocumentMoniker": "D:\\faks\\3god\\vp\\Car Racing Game\\Car Racing Game\\HelpForm.cs",
+              "RelativeDocumentMoniker": "Car Racing Game\\HelpForm.cs",
+              "ToolTip": "D:\\faks\\3god\\bp\\Car Racing Game\\Car Racing Game\\HelpForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\bp\\Car Racing Game\\Car Racing Game\\HelpForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T14:49:55.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "D:\\faks\\3god\\vp\\Car Racing Game\\Car Racing Game\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Car Racing Game\\Properties\\Resources.resx",
+              "ToolTip": "D:\\faks\\3god\\vp\\Car Racing Game\\Car Racing Game\\Properties\\Resources.resx",
+              "RelativeToolTip": "Car Racing Game\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-07-04T19:15:33.206Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

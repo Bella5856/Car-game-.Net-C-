@@ -1,0 +1,331 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0F8B66BC-8E45-4824-AC31-F4EBED1AB170}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Car_Racing_Game</RootNamespace>
+    <AssemblyName>Car Racing Game</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ChoseCarForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChoseCarForm.Designer.cs">
+      <DependentUpon>ChoseCarForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChoseModeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChoseModeForm.Designer.cs">
+      <DependentUpon>ChoseModeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CoinsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CoinsForm.Designer.cs">
+      <DependentUpon>CoinsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CombatClass.cs" />
+    <Compile Include="CombatForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CombatForm.Designer.cs">
+      <DependentUpon>CombatForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EnemyPictureBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Car.cs" />
+    <Compile Include="Game.cs" />
+    <Compile Include="GameData.cs" />
+    <Compile Include="HelpForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HelpForm.Designer.cs">
+      <DependentUpon>HelpForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HighScore.cs" />
+    <Compile Include="Mode.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SurvivalMode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SurvivalMode.Designer.cs">
+      <DependentUpon>SurvivalMode.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ChoseCarForm.resx">
+      <DependentUpon>ChoseCarForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChoseModeForm.resx">
+      <DependentUpon>ChoseModeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CoinsForm.resx">
+      <DependentUpon>CoinsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CombatForm.resx">
+      <DependentUpon>CombatForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HelpForm.resx">
+      <DependentUpon>HelpForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="SurvivalMode.resx">
+      <DependentUpon>SurvivalMode.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Resources\racing-asphalt-road-start-finish-260nw-1216317226.webp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\78e93c710c7bda7ee4036875c1e3c60b.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a6742a06e95659aa4720c5a7b3b672b0.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bronze.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\explosion.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gold.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\obstacle1png.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\obstacle2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\obstacle3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\obstacle4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\obstacle5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\obstacle6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\obstacle8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rase car1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rasecar2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rasecar3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rasecar4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rasecar5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\silver.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\survival track.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\survival track1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\viber_image_2024-07-03_15-41-34-829.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Survival track.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CHOCE CAR.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chose car.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chose mode.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\help.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\start.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Turbo Track Triad.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\restart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Coin Track.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\67Pg.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fw3P.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coin mode bg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\survival mode bg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Car Shop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Game Modes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coins start.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\restart to try again.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\survival start.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\you lose.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\you win.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\enemy fire ball.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fire ball power up.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fireball-fire.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\power up.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\line.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\combat start.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coin mode baner.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\survival mode baner.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coin mode baner 1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coin mode baner 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\survival mode baner 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coin mode baner 3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\survival mode baner 3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\combar mode baner.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coin mode baner.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\survival mode baner.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\help panel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rent car1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rent car2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rent car3.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

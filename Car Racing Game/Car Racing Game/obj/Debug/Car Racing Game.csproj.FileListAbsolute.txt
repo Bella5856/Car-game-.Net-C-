@@ -1,0 +1,32 @@
+D:\faks\3god\bp\Car Racing Game\Car Racing Game\bin\Debug\Car Racing Game.exe.config
+D:\faks\3god\bp\Car Racing Game\Car Racing Game\bin\Debug\Car Racing Game.exe
+D:\faks\3god\bp\Car Racing Game\Car Racing Game\bin\Debug\Car Racing Game.pdb
+D:\faks\3god\bp\Car Racing Game\Car Racing Game\obj\Debug\Car Racing Game.csproj.AssemblyReference.cache
+D:\faks\3god\bp\Car Racing Game\Car Racing Game\obj\Debug\Car_Racing_Game.ChoseCarForm.resources
+D:\faks\3god\bp\Car Racing Game\Car Racing Game\obj\Debug\Car_Racing_Game.ChoseModeForm.resources
+D:\faks\3god\bp\Car Racing Game\Car Racing Game\obj\Debug\Car_Racing_Game.Form1.resources
+D:\faks\3god\bp\Car Racing Game\Car Racing Game\obj\Debug\Car_Racing_Game.Properties.Resources.resources
+D:\faks\3god\bp\Car Racing Game\Car Racing Game\obj\Debug\Car Racing Game.csproj.GenerateResource.cache
+D:\faks\3god\bp\Car Racing Game\Car Racing Game\obj\Debug\Car Racing Game.csproj.CoreCompileInputs.cache
+D:\faks\3god\bp\Car Racing Game\Car Racing Game\obj\Debug\Car Racing Game.exe
+D:\faks\3god\bp\Car Racing Game\Car Racing Game\obj\Debug\Car Racing Game.pdb
+D:\faks\3god\bp\Car Racing Game\Car Racing Game\obj\Debug\Car_Racing_Game.SurvivalMode.resources
+D:\faks\3god\bp\Car Racing Game\Car Racing Game\obj\Debug\Car_Racing_Game.CoinsForm.resources
+D:\faks\3god\bp\Car Racing Game\Car Racing Game\obj\Debug\Car_Racing_Game.CombatForm.resources
+D:\faks\3god\bp\Car Racing Game\Car Racing Game\obj\Debug\Car_Racing_Game.HelpForm.resources
+D:\faks\3god\vp\Car Racing Game\Car Racing Game\bin\Debug\Car Racing Game.exe.config
+D:\faks\3god\vp\Car Racing Game\Car Racing Game\bin\Debug\Car Racing Game.exe
+D:\faks\3god\vp\Car Racing Game\Car Racing Game\bin\Debug\Car Racing Game.pdb
+D:\faks\3god\vp\Car Racing Game\Car Racing Game\obj\Debug\Car Racing Game.csproj.AssemblyReference.cache
+D:\faks\3god\vp\Car Racing Game\Car Racing Game\obj\Debug\Car_Racing_Game.ChoseCarForm.resources
+D:\faks\3god\vp\Car Racing Game\Car Racing Game\obj\Debug\Car_Racing_Game.ChoseModeForm.resources
+D:\faks\3god\vp\Car Racing Game\Car Racing Game\obj\Debug\Car_Racing_Game.CoinsForm.resources
+D:\faks\3god\vp\Car Racing Game\Car Racing Game\obj\Debug\Car_Racing_Game.CombatForm.resources
+D:\faks\3god\vp\Car Racing Game\Car Racing Game\obj\Debug\Car_Racing_Game.Form1.resources
+D:\faks\3god\vp\Car Racing Game\Car Racing Game\obj\Debug\Car_Racing_Game.HelpForm.resources
+D:\faks\3god\vp\Car Racing Game\Car Racing Game\obj\Debug\Car_Racing_Game.Properties.Resources.resources
+D:\faks\3god\vp\Car Racing Game\Car Racing Game\obj\Debug\Car_Racing_Game.SurvivalMode.resources
+D:\faks\3god\vp\Car Racing Game\Car Racing Game\obj\Debug\Car Racing Game.csproj.GenerateResource.cache
+D:\faks\3god\vp\Car Racing Game\Car Racing Game\obj\Debug\Car Racing Game.csproj.CoreCompileInputs.cache
+D:\faks\3god\vp\Car Racing Game\Car Racing Game\obj\Debug\Car Racing Game.exe
+D:\faks\3god\vp\Car Racing Game\Car Racing Game\obj\Debug\Car Racing Game.pdb
